@@ -1,0 +1,16 @@
+{
+  "name": "alex19pov31/bx.xhprof.listener",
+  "description": "Listener for XHProf with subscribe on OnPageStart и OnAfterEpilog events",
+  "type": "bitrix-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Nesterov",
+      "email": "alex19pov31@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "alex19pov31/bx.xhprof": "^1.0"
+  }
+}
