@@ -3,7 +3,7 @@
 ## Установка:
 
 ```shell
-composer require alex19pov31/bx.xhprof
+composer require alex19pov31/bx.xhprof.listener
 ```
 
 ## Настройки модуля
